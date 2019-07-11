@@ -110,9 +110,6 @@ https://github.com/febobo/react-native-redux-FeInn
 
 ### React.js
 
-* react.js中文文档
-http://reactjs.cn/
-
 * react.js入门教程(gitbook)
 https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 
@@ -241,10 +238,13 @@ http://www.infoq.com/cn/articles/react-native-web
 > 研究源码也是一个很好的学习方式
 
 * 官方演示App
-https://github.com/facebook/react-native/tree/master/Examples
+https://github.com/fbsamples/react-native-samples
 
 * **Facebook F8 App**
 https://github.com/fbsamples/f8app
+
+* **仿豆瓣APP**
+https://github.com/jianxiaoBai/douban
 
 * **GitHub Popular(一个用来查看GitHub最受欢迎与最热项目的App)已上架**
 https://github.com/crazycodeboy/GitHubPopular
@@ -256,7 +256,7 @@ https://github.com/fakefish/Weekly75
 https://github.com/catalinmiron/react-native-dribbble-app
 
 * **Gank.io客户端**
-https://github.com/Bob1993/React-Native-Gank  
+https://github.com/Bob1993/React-Native-Gank
 
 * **Mdcc客户端(优质)**
 https://github.com/Bob1993/mdcc-client
@@ -399,6 +399,21 @@ https://github.com/togayther/react-native-cnblogs
 * CC 速成班
 https://github.com/1c7/CrashCourse-Chinese-ReactNative-App
 
+* **Movieapp**
+https://github.com/junedomingo/movieapp
+
+* **虎扑客户端**
+https://github.com/MelonRice/ReactNative-HupuJRS
+
+* React Native Starter Kit
+https://github.com/mcnamee/react-native-starter-app
+
+* uestc-react-native-ios - 电子科技大学「UESTC」iOS 客户端（With MobX）
+https://github.com/Vizards/uestc-react-native-ios
+
+* **React Native实现阅读器，模仿每日一文**
+https://github.com/ZeeeeeeNo/ReactNativeEveryDayRead
+
 ## 图书
 * 《React Native入门与实战》
 http://item.jd.com/11844102.html
@@ -430,6 +445,9 @@ https://github.com/react-native-simple-router-community/react-native-simple-rout
 * react-native-router-flux
 https://github.com/aksonov/react-native-router-flux
 
+* rn-fetch-blob (Actual and updated repository for react-native-fetch-blob)
+https://github.com/joltup/rn-fetch-blob
+
 * 下拉刷新组件
 https://github.com/jsdf/react-native-refreshable-listview
 
@@ -448,6 +466,9 @@ https://github.com/jsdf/react-native-htmlview
 * **Material React Native (MRN)** - Material Design组件库
 https://github.com/binggg/mrn
 
+* **Paper** - Material design for React Native组件库
+https://github.com/callstack/react-native-paper
+
 * react-native-gitfeed - GitHub客户端(iOS/Android)
 https://github.com/xiekw2010/react-native-gitfeed
 
@@ -456,6 +477,12 @@ https://github.com/react-native-community/React-Native-Elements
 
 * **Shoutem UI** - React Native样式组件库
 https://github.com/shoutem/ui
+
+* **BlankApp UI** - 高可定制和主题化的 React Native 组件库
+https://github.com/blankapp/ui
+
+* **React Native Bouncing Ball** - 在屏幕内弹跳球
+https://github.com/hankzhuo/react-native-bouncing-ball
 
 ## 工具
 
@@ -477,11 +504,17 @@ https://github.com/rnpm/rnpm
 * Pepperoni - React Native项目初始化套件
 https://github.com/futurice/pepperoni-app-kit
 
+* react-native-rename (Rename Whole Package)
+https://github.com/junedomingo/react-native-rename
+
 * **Deco IDE - React Native IDE**
 https://www.decosoftware.com/
 
 * **ignite - React Native CLI项目生成器**
 https://github.com/infinitered/ignite
+
+* **react-native-rename**
+https://github.com/junedomingo/react-native-rename
 
 ## 资源网站
 
@@ -502,6 +535,9 @@ http://reactnativemodules.com/
 
 * **Use React Native 资讯站**(使用技巧及新闻)
 http://www.reactnative.com/
+
+* React Native Tools
+http://www.rntools.co/
 
 * 11款React Native开源移动 UI 组件
 http://www.oschina.net/news/61214/11-react-native-ui-components
@@ -532,3 +568,5 @@ http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E
 http://awhisper.github.io/2016/07/22/Weex-ReactNative-JSPatch/
 * weex&ReactNative对比
 https://zhuanlan.zhihu.com/p/21677103
+
+
